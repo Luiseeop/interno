@@ -111,3 +111,27 @@ padding-top: 90px;
     margin-left: 20px;
 }
 
+.H4{
+    display: flex;
+    font-size: 63px;
+    width: 3000px;
+    margin-left: 400px;
+}
+
+.section1{
+    background-color: #F4F0EC;
+}
+
+.img{
+background-color: white;
+width: 200px;
+}
+
+
+.img1{
+    display: flex;
+}
+
+.img2{
+    padding-top: 20px;
+}
