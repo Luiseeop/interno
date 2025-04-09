@@ -52,6 +52,8 @@ width: 50%;
 
 .white{
     color: rgb(0, 0, 0);
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
    
 }
 
@@ -292,4 +294,10 @@ margin-top: 10px;
     border-radius: 10px;
     font-family: "Inter", sans-serif;
     transition: 0.6s ease;
+}
+
+
+.white:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }
