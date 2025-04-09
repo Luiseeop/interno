@@ -163,3 +163,127 @@ margin-right: 20px;
 .pd{
     padding: 50px;
 }
+
+.olr{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 150px;
+}
+
+.pro{
+margin-left: 570px;
+}
+
+.joe{
+    font-size: 50px;
+    margin-left: 650px;
+}
+
+.yop{
+margin-bottom: 50px;
+}
+
+
+.crop1{
+border-radius: 0 100px 0 0;
+}
+
+.crop4{
+    border-radius: 100px 0 0 0;
+}
+
+.crop2{
+    border-radius: 0 0 100px 0;
+}
+
+.crop3{
+    border-radius: 0 0 0 100px;
+}
+
+.color{
+    background-color: #292F36;
+    display: flex;
+    align-items: center;
+   padding: 100PX 0;
+}
+
+.yui{
+    
+    margin-left: 350px;
+    color: white;
+}
+
+.tui{
+    font-size: 50px;
+}
+
+.lo{
+margin-left: 250px;
+font-size: 22px;
+margin-top: 10px;
+}
+
+.pole{
+    margin-left: 125px;
+    margin-top: 40px;
+    font-size: 40px;
+    max-height: 30PX;
+    border-radius: 10px;
+}
+
+.pole::placeholder{
+    font-size: 20px;
+   align-items: center;
+}
+
+.map{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.size{
+    width: 177px;
+}
+
+.op{
+   
+    width: 393px;
+    margin-right: 20px;
+}
+
+.mop{
+    margin-bottom: 20px;
+}
+
+.loi{
+    margin-right: 15px;
+}
+
+.oui{
+    width: 258px;
+}
+
+.oip{
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.poil{
+    margin-left: 450px ;
+}
+
+.btn {
+    background-color: #292F36; 
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 30px 2px;
+    border-radius: 10px;
+    font-family: "Inter", sans-serif;
+    transition: 0.6s ease;
+}
