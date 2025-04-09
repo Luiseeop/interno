@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
     box-sizing: border-box;
@@ -8,6 +9,11 @@
     text-decoration: none;
     list-style: none;
     font-family: "DM Serif Display", serif;
+}
+
+
+p{
+    font-family: "Jost", sans-serif;
 }
 
 .container{
